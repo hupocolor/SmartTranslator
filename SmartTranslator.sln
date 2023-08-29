@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTranslator", "SmartTranslator\SmartTranslator.csproj", "{B1802479-5F06-4312-B22D-320F1205E41A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hjc.TranslatorDomain", "Hjc.TranslatorDomain\Hjc.TranslatorDomain.csproj", "{06B1BAF7-D130-4FDD-9544-5A08C5E2E889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hjc.ChatGPT", "Hjc.ChatGPT\Hjc.ChatGPT.csproj", "{058C9222-31B9-4047-AB03-B7A8E84C2FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{40BF4141-9058-42FD-93E0-B887FF608E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hjc.FileDomain", "Hjc.FileDomain\Hjc.FileDomain.csproj", "{81378710-4E23-406D-B49E-C10DF26078EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hjc.UserDomain", "Hjc.UserDomain\Hjc.UserDomain.csproj", "{4AC731E1-A34D-4C6C-9311-D12FDC4C8C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1802479-5F06-4312-B22D-320F1205E41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1802479-5F06-4312-B22D-320F1205E41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1802479-5F06-4312-B22D-320F1205E41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1802479-5F06-4312-B22D-320F1205E41A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B1BAF7-D130-4FDD-9544-5A08C5E2E889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B1BAF7-D130-4FDD-9544-5A08C5E2E889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B1BAF7-D130-4FDD-9544-5A08C5E2E889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B1BAF7-D130-4FDD-9544-5A08C5E2E889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{058C9222-31B9-4047-AB03-B7A8E84C2FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058C9222-31B9-4047-AB03-B7A8E84C2FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058C9222-31B9-4047-AB03-B7A8E84C2FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058C9222-31B9-4047-AB03-B7A8E84C2FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BF4141-9058-42FD-93E0-B887FF608E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BF4141-9058-42FD-93E0-B887FF608E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BF4141-9058-42FD-93E0-B887FF608E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BF4141-9058-42FD-93E0-B887FF608E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81378710-4E23-406D-B49E-C10DF26078EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81378710-4E23-406D-B49E-C10DF26078EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81378710-4E23-406D-B49E-C10DF26078EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81378710-4E23-406D-B49E-C10DF26078EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC731E1-A34D-4C6C-9311-D12FDC4C8C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC731E1-A34D-4C6C-9311-D12FDC4C8C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC731E1-A34D-4C6C-9311-D12FDC4C8C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC731E1-A34D-4C6C-9311-D12FDC4C8C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48E7FB8C-DD24-48DB-8E83-F0F41714AA91}
+	EndGlobalSection
+EndGlobal
